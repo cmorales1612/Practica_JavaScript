@@ -1,0 +1,8 @@
+========
+20200327
+========
+Hola Cristobal,
+
+- copia l'arxiu index.html fora del directori 'looool'
+- esborra el directori 'looool'
+- prova a executar el codi JS des d'un arxiu extern
